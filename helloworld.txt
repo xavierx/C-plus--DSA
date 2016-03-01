@@ -2,3 +2,5 @@
 using namespace std;
 
 print("Hello world.")
+
+print("The second one.")

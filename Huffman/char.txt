@@ -1,0 +1,5 @@
+We could represent a priority queue as a sorted contiguous list,in 
+which case removal of an entry is immediate,but insertion would take 
+time proportional to n,the number of entries in the queue.Or we could 
+represent it as an unsorted list,in which case insertion is rpid but 
+removal is slow.
